@@ -1,0 +1,38 @@
+body {
+  background-color: #EEC373;
+
+}
+
+hr {
+border-color : grey;
+border-style : dotted none none;
+border-width : 12px;
+width: 5%;
+
+
+}
+
+img {
+
+ height: 250px;
+
+}
+
+h1 {
+    color : green
+
+
+
+}
+
+h3 {
+    color : green;
+    font-size: 30px;
+
+}
+
+.hobbies {
+
+text-align: center;
+
+}
